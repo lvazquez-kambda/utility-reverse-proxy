@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lp-platform-gateway", "lp-platform-gateway\lp-platform-gateway.csproj", "{93774661-0531-4FBA-B090-9ADB6E6365C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93774661-0531-4FBA-B090-9ADB6E6365C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93774661-0531-4FBA-B090-9ADB6E6365C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93774661-0531-4FBA-B090-9ADB6E6365C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93774661-0531-4FBA-B090-9ADB6E6365C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD5B650-920A-4F41-947F-EA073DAAB1CF}
+	EndGlobalSection
+EndGlobal
